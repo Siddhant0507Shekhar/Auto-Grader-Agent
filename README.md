@@ -1,6 +1,3 @@
-# Auto-Grader-Agent
-Automatic grading of student's solution with gpt
-
 Given a right circular cone inscribed in a hemisphere where the base of the cone coincides with the base of the hemisphere. We need to find the ratio of the height of the cone ($h$) to the radius of the hemisphere ($r$).
 
 Since the cone is inscribed in the hemisphere, $h$, $r$, and $r$ form a right triangle. Applying the Pythagorean theorem, we get:
